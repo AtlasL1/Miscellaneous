@@ -1,4 +1,4 @@
-# Others
+# Miscellaneous
 This respository is a space for me to dump codes. 80% of these are beginner projects I did when I was 14-15, which should explain the monstrosity of the code scripts. 
 
 ### A simple breakdown of the folders
