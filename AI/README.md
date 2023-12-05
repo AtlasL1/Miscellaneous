@@ -35,7 +35,7 @@ Artificial Intelligence is a subfield of computer science that focuses on creati
 AI is an interdisciplinary science with many approaches; it can be rule-based and operate under a predefined set or conditions, or it can use machine learning algorithms to adapt to its environment. The latter is particularly powerful, as it allows AI systems to learn from data, making them more versatile and capable of handling unforeseen scenarios.
 
 <p align="center">
-<img src=/image3_6ea5d44077.png"></p>
+<img src=AI/image3_6ea5d44077.png"></p>
 
 <p align="center"><i>AI in relation to data science and other key concepts</i></p>
 
